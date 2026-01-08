@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "906654836170",
+    "firebase_url": "https://arc-app-2024-default-rtdb.firebaseio.com",
+    "project_id": "arc-app-2024",
+    "storage_bucket": "arc-app-2024.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906654836170:android:7183474ea5dd00d74c5b33",
+        "android_client_info": {
+          "package_name": "com.arc.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOhcYlKWkTZjCXoNthQTarqUXTiDxakoQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

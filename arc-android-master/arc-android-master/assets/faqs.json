@@ -1,0 +1,446 @@
+{
+  "code": 200,
+  "message": "Fetched successfully",
+  "data": [
+    {
+      "_id": "69300f6819ed7f483c498f29",
+      "question": "What is your fax number?",
+      "points": [
+
+      ],
+      "type": "DYNAMIC",
+      "conditionalPoint": {
+
+      },
+      "status": "Active",
+      "id": "69300f6819ed7f483c498f29",
+      "__v": 0,
+      "createdAt": "2025-12-03T10:22:32.362Z",
+      "updatedAt": "2025-12-03T10:22:32.362Z"
+    },
+    {
+      "_id": "69300f6819ed7f483c498f2a",
+      "question": "What are your office hours?",
+      "points": [
+
+      ],
+      "type": "DYNAMIC",
+      "conditionalPoint": {
+
+      },
+      "status": "Active",
+      "id": "69300f6819ed7f483c498f2a",
+      "__v": 0,
+      "createdAt": "2025-12-03T10:22:32.364Z",
+      "updatedAt": "2025-12-03T10:22:32.364Z"
+    },
+    {
+      "_id": "69300f6819ed7f483c498f2b",
+      "question": "When is my next appt?",
+      "points": [
+
+      ],
+      "type": "DYNAMIC",
+      "conditionalPoint": {
+
+      },
+      "status": "Active",
+      "id": "69300f6819ed7f483c498f2b",
+      "__v": 0,
+      "createdAt": "2025-12-03T10:22:32.364Z",
+      "updatedAt": "2025-12-03T10:22:32.364Z"
+    },
+    {
+      "_id": "69300f6819ed7f483c498f2c",
+      "question": "How many visits left in my auth?",
+      "points": [
+
+      ],
+      "type": "DYNAMIC",
+      "conditionalPoint": {
+
+      },
+      "status": "Active",
+      "id": "69300f6819ed7f483c498f2c",
+      "__v": 0,
+      "createdAt": "2025-12-03T10:22:32.364Z",
+      "updatedAt": "2025-12-03T10:22:32.364Z"
+    },
+    {
+      "_id": "69300f6819ed7f483c498f2d",
+      "question": "When does my auth expire?",
+      "points": [
+
+      ],
+      "type": "DYNAMIC",
+      "conditionalPoint": {
+
+      },
+      "status": "Active",
+      "id": "69300f6819ed7f483c498f2d",
+      "__v": 0,
+      "createdAt": "2025-12-03T10:22:32.366Z",
+      "updatedAt": "2025-12-03T10:22:32.366Z"
+    },
+    {
+      "_id": "69300f6819ed7f483c498f2e",
+      "question": "How much is my copay/ coinsurance?",
+      "points": [
+
+      ],
+      "type": "DYNAMIC",
+      "conditionalPoint": {
+
+      },
+      "status": "Active",
+      "id": "69300f6819ed7f483c498f2e",
+      "__v": 0,
+      "createdAt": "2025-12-03T10:22:32.366Z",
+      "updatedAt": "2025-12-03T10:22:32.366Z"
+    },
+    {
+      "_id": "69300f6819ed7f483c498f2f",
+      "question": "WHY DID I CALL __ LOCATION BUT IT REACHED A DIFFERENT LOCATION?",
+      "points": [
+        "WE HAVE CENTRALIZED LOCATION, ITS ANSWERS MAIN LINES SO THAT THE FRONT DESK IS ABLE TO SPEND MORE ONE ON ONE TIME WITH THE PATIENTS IN OFFICE.",
+        "WE WILL CONTACT THE LOCATION YOU NEED AND THEY WILL CALL YOU",
+        "IF THEY ARE ALREADY ON THE PHONE THEN THE LINES ARE TRANSFERRED TO OTHER LOCATIONS TO AVOID EXCESSIVE VOICEMAILS."
+      ],
+      "type": "STATIC",
+      "conditionalPoint": {
+
+      },
+      "status": "Active",
+      "id": "69300f6819ed7f483c498f2f",
+      "__v": 0,
+      "createdAt": "2025-12-03T10:22:32.367Z",
+      "updatedAt": "2025-12-03T10:22:32.367Z"
+    },
+    {
+      "_id": "69300f6819ed7f483c498f30",
+      "question": "WHAT DO YOU DO HERE?",
+      "points": [
+        "WE PROVIDE ACUPUNCTURE AND PHYSICAL THERAPY SERVICES FOR A WIDE VARIETY OF CONDITIONS WITH A FOCUS ON CHRONIC PAIN RELIEF.",
+        "WE PROVIDE ACUPUNCTURE, CUPPING, MASSAGE (MEDICAL MASSAGE, 5-8 MINS) AND PHYSICAL THERAPY.",
+        "WE DO MANUAL PHYSICAL THERAPY. IT IS DIFFERENT FROM TRADITIONAL THERAPY AND WE SEE A MUCH HIGHER RATE OF RESULTS.",
+        "ACUPUNCTURE IS A TECHNIQUE OF TRADITIONAL CHINESE MEDICINE USING SMALL NEEDLES IN ORDER TO HEAL THE BODY.",
+        "WE OFFER FREE CONSULTATIONS WITH OUR DOCTORS SO THAT THEY CAN EXPLAIN BETTER HOW OUR SERVICES MAY BENEFIT YOUR CONDITION."
+      ],
+      "type": "STATIC",
+      "conditionalPoint": {
+
+      },
+      "status": "Active",
+      "id": "69300f6819ed7f483c498f30",
+      "__v": 0,
+      "createdAt": "2025-12-03T10:22:32.367Z",
+      "updatedAt": "2025-12-03T10:22:32.367Z"
+    },
+    {
+      "_id": "69300f6819ed7f483c498f31",
+      "question": "HOW MUCH DOES TREATMENT COST?",
+      "points": [
+        "COST VARIES BASED ON INSURANCE COVERAGE. WE ACCEPT MOST PLANS AND ARE HAPPY TO CHECK COVERAGE FOR YOU.",
+        "FOR NO INSURANCE: $160 FIRST VISIT, $110 FOLLOW-UP VISITS. (THIS IS THE PRIVATE PAY RATE.)",
+        "WE KNOW YOUR TREATMENT WILL BE MORE THAN ONE OR TWO VISITS, BUT WE ARE VERY CONFIDENT IN WHAT WE DO. IF YOU GIVE US THE TIME… WE GENERATE RESULTS."
+      ],
+      "type": "STATIC",
+      "conditionalPoint": {
+
+      },
+      "status": "Active",
+      "id": "69300f6819ed7f483c498f31",
+      "__v": 0,
+      "createdAt": "2025-12-03T10:22:32.367Z",
+      "updatedAt": "2025-12-03T10:22:32.367Z"
+    },
+    {
+      "_id": "69300f6819ed7f483c498f32",
+      "question": "DO YOU DO MASSAGE?",
+      "points": [
+        "WE OFFER MASSAGE IN COMBINATION WITH OUR TREATMENTS AS THE DOCTORS SEE FIT. WE DO NOT OFFER FULL VISITS OF MASSAGE ONLY, AND OURS IS LOCALIZED TO YOUR REASON FOR COMING TO US.",
+        "OUR MEDICAL MASSAGES, AS RECOMMENDED, LAST ABOUT 5–8 MINUTES AS THE DOCTOR SEES FIT."
+      ],
+      "type": "STATIC",
+      "conditionalPoint": {
+
+      },
+      "status": "Active",
+      "id": "69300f6819ed7f483c498f32",
+      "__v": 0,
+      "createdAt": "2025-12-03T10:22:32.367Z",
+      "updatedAt": "2025-12-03T10:22:32.367Z"
+    },
+    {
+      "_id": "69300f6819ed7f483c498f33",
+      "question": "WHERE ARE THE DOCTORS FROM? ARE THEY CHINESE?",
+      "points": [
+        "MOST OF OUR DOCTORS ARE ORIENTAL. HOWEVER, ALL OF OUR STAFF HAS RECEIVED EXTENSIVE TRAINING FROM OUR OWNER, DR. WANG.",
+        "ALL SCHOOLS GIVE THE SAME INFORMATION, BUT OUR CLINICIANS ALL HAVE A LOT OF TRAINING OUTSIDE OF SCHOOL."
+      ],
+      "type": "STATIC",
+      "conditionalPoint": {
+
+      },
+      "status": "Active",
+      "id": "69300f6819ed7f483c498f33",
+      "__v": 0,
+      "createdAt": "2025-12-03T10:22:32.368Z",
+      "updatedAt": "2025-12-03T10:22:32.368Z"
+    },
+    {
+      "_id": "69300f6819ed7f483c498f34",
+      "question": "WHERE IS DR. WANG WORKING?",
+      "points": [
+        "DR. WANG IS NOT HOLDING AS MANY CLINIC HOURS ANYMORE BECAUSE HIS MAIN GOAL IS TO SHARE HIS KNOWLEDGE WITH OUR STAFF TO TRAIN OTHERS TO DO WHAT HE DOES.",
+        "HE WORKS IN THE BACKGROUND OF THE BUSINESS SO THAT HE CAN HELP US CONTINUE TO BE SUCCESSFUL."
+      ],
+      "type": "STATIC",
+      "conditionalPoint": {
+
+      },
+      "status": "Active",
+      "id": "69300f6819ed7f483c498f34",
+      "__v": 0,
+      "createdAt": "2025-12-03T10:22:32.368Z",
+      "updatedAt": "2025-12-03T10:22:32.368Z"
+    },
+    {
+      "_id": "69300f6819ed7f483c498f35",
+      "question": "FOLLOW UP… BUT I WAS RECOMMENDED TO SEE DR. WANG ONLY",
+      "points": [
+        "DR. WANG IS NOT HOLDING REGULAR CLINIC HOURS ANYMORE, BECAUSE HE IS WORKING ON TRAINING OTHERS ON WHAT HE DOES.",
+        "HOWEVER, ALL OF OUR PROVIDERS HAVE RECEIVED EXTENSIVE TRAINING BY DR. WANG HIMSELF.",
+        "DR. WANG IS AVAILABLE FOR CLINICAL CONSULTATION TO OUR OTHER PROVIDERS – SO YOU DON’T HAVE TO WORRY ABOUT HAVING A CLINICIAN THAT DOESN’T KNOW WHAT THEY’RE DOING.",
+        "THEY HAVE A WHOLE SYSTEM SUPPORTING YOU."
+      ],
+      "type": "STATIC",
+      "conditionalPoint": {
+
+      },
+      "status": "Active",
+      "id": "69300f6819ed7f483c498f35",
+      "__v": 0,
+      "createdAt": "2025-12-03T10:22:32.368Z",
+      "updatedAt": "2025-12-03T10:22:32.368Z"
+    },
+    {
+      "_id": "69300f6819ed7f483c498f36",
+      "question": "IS DOCTOR _ BETTER THAN DOCTOR _?",
+      "points": [
+        "BEFORE A DOCTOR CAN OPERATE AS CLINIC MANAGER, THEY WORK UNDER DOCTOR WANG AND RECEIVE EXTENSIVE ADDITIONAL TRAINING FROM HIM, SO OUR PROVIDERS ARE EXTREMELY SKILLED AND EXPERIENCED, MORE SO THAN YOUR TYPICAL PHYSICAL THERAPIST.",
+        "NO – WE CANNOT TELL YOU EXACTLY, EVERY DOCTOR HAS DIFFERENT STRENGTHS; THEY, OF COURSE, HAVE A GOOD SYSTEM OF SUPPORT. THEY EACH HAVE THEIR TECHNIQUE."
+      ],
+      "type": "STATIC",
+      "conditionalPoint": {
+
+      },
+      "status": "Active",
+      "id": "69300f6819ed7f483c498f36",
+      "__v": 0,
+      "createdAt": "2025-12-03T10:22:32.369Z",
+      "updatedAt": "2025-12-03T10:22:32.369Z"
+    },
+    {
+      "_id": "69300f6819ed7f483c498f37",
+      "question": "WHY IS DOCTOR WANG NEVER IN THE OFFICE?",
+      "points": [
+        "DR. WANG IS NOT HOLDING AS MANY CLINIC HOURS ANYMORE BECAUSE HIS MAIN GOAL IS TO SHARE HIS KNOWLEDGE WITH OUR STAFF TO TRAIN OTHERS TO DO WHAT HE DOES.",
+        "HE WORKS IN THE BACKGROUND OF THE BUSINESS SO THAT HE CAN HELP US CONTINUE TO BE SUCCESSFUL."
+      ],
+      "type": "STATIC",
+      "conditionalPoint": {
+
+      },
+      "status": "Active",
+      "id": "69300f6819ed7f483c498f37",
+      "__v": 0,
+      "createdAt": "2025-12-03T10:22:32.369Z",
+      "updatedAt": "2025-12-03T10:22:32.369Z"
+    },
+    {
+      "_id": "69300f6819ed7f483c498f38",
+      "question": "IS IT SAFE?",
+      "points": [
+        "PHYSICAL THERAPY",
+        "ACUPUNCTURE"
+      ],
+      "type": "CONDITIONAL",
+      "conditionalPoint": {
+        "PHYSICAL THERAPY": [
+          "MOST PEOPLE HAVE HAD PT, BUT OUR PHYSICAL THERAPY IS DIFFERENT FROM TRADITIONAL BECAUSE WE PROVIDE MANUAL THERAPY.",
+          "MOST PATIENTS WILL HAVE A BIAS ABOUT PT BECAUSE OF BAD EXPERIENCES WITH TRADITIONAL PT IN THE PAST."
+        ],
+        "ACUPUNCTURE": [
+          "YES, IT’S VERY SAFE – IN 30 YEARS WE HAVE NOT SEEN ANY UNRECOVERABLE DAMAGE AND IT IS VERY SAFE. (NO LIFE-THREATENING ISSUES)",
+          "SLIGHT BRUISING OR SORENESS IS NORMAL.",
+          "IT IS PERFECTLY SAFE WHEN TAKING BLOOD THINNERS AND IT IS STILL EXTREMELY SAFE; HOWEVER, IT MAY CAUSE A VERY SMALL INCREASE IN BRUISING.",
+          "FOR OTHER QUESTIONS, CONSULT WITH ACUPUNCTURISTS DIRECTLY."
+        ]
+      },
+      "status": "Active",
+      "id": "69300f6819ed7f483c498f38",
+      "__v": 0,
+      "createdAt": "2025-12-03T10:22:32.369Z",
+      "updatedAt": "2025-12-03T10:22:32.369Z"
+    },
+    {
+      "_id": "69300f6819ed7f483c498f39",
+      "question": "HOW YOUNG CAN PATIENT BE?",
+      "points": [
+        "PATIENT MUST BE ABLE TO LISTEN TO ORDERS AND FOLLOW INSTRUCTIONS AND GIVE US FEEDBACK – 7-8 YEARS+ IS PREFERRED."
+      ],
+      "type": "STATIC",
+      "conditionalPoint": {
+
+      },
+      "status": "Active",
+      "id": "69300f6819ed7f483c498f39",
+      "__v": 0,
+      "createdAt": "2025-12-03T10:22:32.369Z",
+      "updatedAt": "2025-12-03T10:22:32.369Z"
+    },
+    {
+      "_id": "69300f6819ed7f483c498f3a",
+      "question": "WHAT DO YOU DO EXACTLY?",
+      "points": [
+        "WE USE A SCIENTIFIC APPROACH TO COMBINE THE TECHNIQUES OF ACUPUNCTURE AND PHYSICAL THERAPY TO TREAT CHRONIC AND SEVERE CONDITIONS."
+      ],
+      "type": "STATIC",
+      "conditionalPoint": {
+
+      },
+      "status": "Active",
+      "id": "69300f6819ed7f483c498f3a",
+      "__v": 0,
+      "createdAt": "2025-12-03T10:22:32.370Z",
+      "updatedAt": "2025-12-03T10:22:32.370Z"
+    },
+    {
+      "_id": "69300f6819ed7f483c498f3b",
+      "question": "DO YOU GUYS REUSE NEEDLES?",
+      "points": [
+        "ABSOLUTELY NOT - WE FOLLOW STATE MANDATE ONLY USING STERILIZED PRE-SEALED NEEDLES, AND WE DISPOSE OF THEM USING ALL HAZMAT GUIDELINES FOR SAFE DISPOSAL."
+      ],
+      "type": "STATIC",
+      "conditionalPoint": {
+
+      },
+      "status": "Active",
+      "id": "69300f6819ed7f483c498f3b",
+      "__v": 0,
+      "createdAt": "2025-12-03T10:22:32.370Z",
+      "updatedAt": "2025-12-03T10:22:32.370Z"
+    },
+    {
+      "_id": "69300f6819ed7f483c498f3c",
+      "question": "WHAT SHOULD I EXPECT AT THE FIRST VISIT?",
+      "points": [
+        "THEY ARE LOOKING TO KNOW HOW THEY CAN PREPARE FOR TREATMENT & WHAT SIDE EFFECTS TO EXPECT.",
+        "DRESS COMFORTABLY (WE DO OFFER MEDICAL GOWNS IF WE NEED TO REACH CERTAIN AREAS COVERED BY CLOTHING). DON’T WEAR TOO MUCH JEWELRY.",
+        "ARRIVE 15 MINUTES EARLY IN ORDER TO FILL OUT PAPERWORK.",
+        "IT IS PERFECTLY SAFE TO DRIVE AFTER TREATMENT, BUT WE ADVISE YOU TO GO HOME AND RELAX IF POSSIBLE TO PREVENT EXCESSIVE SORENESS.",
+        "1ST VISIT YOU WILL DO: PAPERWORK, CONSULTATION WITH DOCTOR, EXPLANATION OF COST OF TREATMENT, ALL RECOMMENDED TREATMENTS, CREATE SCHEDULE OF RECOMMENDED APPOINTMENTS.",
+        "TREATMENT TAKES ABOUT AN HOUR TO AN HOUR AND A HALF FOR THE 1ST VISIT."
+      ],
+      "type": "STATIC",
+      "conditionalPoint": {
+
+      },
+      "status": "Active",
+      "id": "69300f6819ed7f483c498f3c",
+      "__v": 0,
+      "createdAt": "2025-12-03T10:22:32.371Z",
+      "updatedAt": "2025-12-03T10:22:32.371Z"
+    },
+    {
+      "_id": "69300f6819ed7f483c498f3d",
+      "question": "CAN I DRIVE AFTER TREATMENT?",
+      "points": [
+        "IT IS PERFECTLY FINE TO DRIVE AFTER TREATMENT, HOWEVER ACUPUNCTURE CAN MAKE YOU FEEL TIRED, SO IF YOU ARE WORRIED ABOUT HOW YOU WILL REACT, WE RECOMMEND BRINGING SOMEONE TO DRIVE YOU ON YOUR FIRST VISIT IF NEEDED.",
+        "JUST DO NOT PERFORM MAJOR TASKS LIKE SHOPPING AFTER TREATMENT."
+      ],
+      "type": "STATIC",
+      "conditionalPoint": {
+
+      },
+      "status": "Active",
+      "id": "69300f6819ed7f483c498f3d",
+      "__v": 0,
+      "createdAt": "2025-12-03T10:22:32.371Z",
+      "updatedAt": "2025-12-03T10:22:32.371Z"
+    },
+    {
+      "_id": "69300f6819ed7f483c498f3e",
+      "question": "CAN I BRING SOMEONE WITH ME?",
+      "points": [
+        "YES, IF NEEDED. HOWEVER, OUR TREATMENT ROOMS ARE FOR 1-ON-1 TREATMENT, SO WE RECOMMEND NO MORE THAN 1 ADDITIONAL PERSON BE PRESENT."
+      ],
+      "type": "STATIC",
+      "conditionalPoint": {
+
+      },
+      "status": "Active",
+      "id": "69300f6819ed7f483c498f3e",
+      "__v": 0,
+      "createdAt": "2025-12-03T10:22:32.371Z",
+      "updatedAt": "2025-12-03T10:22:32.371Z"
+    },
+    {
+      "_id": "69300f6819ed7f483c498f3f",
+      "question": "IS TREATMENT PRIVATE? OR WILL I BE IN A ROOM WITH OTHER PEOPLE?",
+      "points": [
+        "WE TAKE PRIVACY VERY SERIOUSLY; MOST OF OUR TREATMENT IS DONE IN ROOMS BETWEEN THE INDIVIDUAL AND THE PHYSICIAN.",
+        "EXCEPT FOR OUR EXERCISES IN THE GYM, THOSE TAKE UP A LARGE SPACE, SO THERE MAY BE 2-3 PATIENTS IN THAT ROOM AT A TIME.",
+        "OUR TREATMENTS ARE VERY INDIVIDUALIZED, SO WE KEEP TREATMENT AS PRIVATE AS POSSIBLE. OUR GOAL IS TO KEEP EVERYONE COMFORTABLE."
+      ],
+      "type": "STATIC",
+      "conditionalPoint": {
+
+      },
+      "status": "Active",
+      "id": "69300f6819ed7f483c498f3f",
+      "__v": 0,
+      "createdAt": "2025-12-03T10:22:32.371Z",
+      "updatedAt": "2025-12-03T10:22:32.371Z"
+    },
+    {
+      "_id": "69300f6819ed7f483c498f40",
+      "question": "WHO DOES THE TREATMENT?",
+      "points": [
+        "WE HAVE A COMBINATION TREATMENT, IT IS A TEAM EFFORT. SO WE WILL HAVE A FEW PEOPLE GOING IN AND OUT OF THE ROOM TO DO DIFFERENT TASKS.",
+        "BUT WE HAVE 2 MAIN TREATING DOCTORS, A PHYSICAL THERAPIST, AND AN ACUPUNCTURIST. OUR SUPPORTING STAFF MEMBERS ARE: PHYSICAL THERAPY ASSISTANTS OR LICENSED MASSAGE THERAPISTS."
+      ],
+      "type": "STATIC",
+      "conditionalPoint": {
+
+      },
+      "status": "Active",
+      "id": "69300f6819ed7f483c498f40",
+      "__v": 0,
+      "createdAt": "2025-12-03T10:22:32.371Z",
+      "updatedAt": "2025-12-03T10:22:32.371Z"
+    },
+    {
+      "_id": "69300f6819ed7f483c498f41",
+      "question": "WHAT KINDS OF DOCTORS ARE HERE?",
+      "points": [
+        "OUR CLINICIANS ARE NOT M.D. DOCTORS, BUT THEY ARE DOCTORS IN THEIR FIELD.",
+        "D.P.T. – DOCTOR OF PHYSICAL THERAPY",
+        "D.O.M. – DOCTOR OF ORIENTAL MEDICINE",
+        "A.P. – ACUPUNCTURE PHYSICIAN,@P.T.A. – PHYSICAL THERAPY ASSISTANT,@L.M.T. – LICENSED MASSAGE THERAPIST"
+      ],
+      "type": "STATIC",
+      "conditionalPoint": {
+
+      },
+      "status": "Active",
+      "id": "69300f6819ed7f483c498f41",
+      "__v": 0,
+      "createdAt": "2025-12-03T10:22:32.372Z",
+      "updatedAt": "2025-12-03T10:22:32.372Z"
+    }
+  ],
+  "totalResult": 32,
+  "limit": 25
+}
